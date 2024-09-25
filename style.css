@@ -1,0 +1,27 @@
+.card {
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+    border-radius: 15px;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+.card .corner {
+    position: absolute;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.card .top-left {
+    top: 10px;
+    left: 10px;
+}
+.card .bottom-right {
+    bottom: 10px;
+    right: 10px;
+}
+.card .number {
+    font-size: 100px;
+    line-height: 300px;
+    text-decoration: underline;
+}
