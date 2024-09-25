@@ -1,3 +1,6 @@
+body{
+    padding: 10px   ;
+}
 .carte{
     width: 280px;
     height: 395px;
@@ -28,7 +31,6 @@
     border-radius: 15px;
     border: solid red;
     border-width: 4px;
-
 }
 .minblue{
     width: 45px;
